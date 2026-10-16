@@ -1,0 +1,7 @@
+closed_model,condition,resource_tier,n,n_scored,n_disputed,UCR_pct,UCR_lo,UCR_hi,RR_pct,CR_pct
+gemini_flash_lite,speech_en,High,5235,4762,473,0.61,0.42,0.87,76.46,94.65
+gemini_flash_lite,speech_lang,High,1812,1681,131,0.12,0.03,0.43,82.49,63.8
+gemini_flash_lite,speech_lang,Low,4886,4637,249,0.0,0.0,0.08,89.89,28.98
+gemini_flash_lite,text_en,High,5235,5121,114,0.1,0.04,0.23,80.06,99.84
+gemini_flash_lite,text_lang,High,3298,3196,102,0.0,0.0,0.12,86.57,95.78
+gemini_flash_lite,text_lang,Low,6702,6536,166,0.06,0.02,0.16,90.17,85.34

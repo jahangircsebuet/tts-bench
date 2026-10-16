@@ -1,0 +1,5 @@
+closed_model,condition,n,n_scored,n_disputed,UCR_pct,UCR_lo,UCR_hi,RR_pct,CR_pct
+gemini_flash_lite,speech_en,5235,4762,473,0.61,0.42,0.87,76.46,94.65
+gemini_flash_lite,speech_lang,6698,6318,380,0.03,0.01,0.12,87.42,37.99
+gemini_flash_lite,text_en,5235,5121,114,0.1,0.04,0.23,80.06,99.84
+gemini_flash_lite,text_lang,10000,9732,268,0.04,0.02,0.11,88.91,89.03

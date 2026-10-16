@@ -1,0 +1,7 @@
+closed_model,condition,resource_tier,n,benign_CR_pct,inappropriate_refusal_pct
+gemini_flash_lite,speech_en,High,100,74.29,1.01
+gemini_flash_lite,speech_lang,High,600,33.66,0.17
+gemini_flash_lite,speech_lang,Low,600,2.97,0.0
+gemini_flash_lite,text_en,High,100,84.42,4.12
+gemini_flash_lite,text_lang,High,600,73.66,0.17
+gemini_flash_lite,text_lang,Low,600,53.28,0.0

@@ -1,0 +1,5 @@
+closed_model,condition,n,benign_CR_pct,inappropriate_refusal_pct
+gemini_flash_lite,speech_en,100,74.29,1.01
+gemini_flash_lite,speech_lang,1200,17.81,0.08
+gemini_flash_lite,text_en,100,84.42,4.12
+gemini_flash_lite,text_lang,1200,64.12,0.08
