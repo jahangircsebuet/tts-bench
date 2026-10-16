@@ -1,0 +1,9 @@
+audio_model,condition,n,benign_CR_pct,inappropriate_refusal_pct
+gemma3n,speech_en,100,56.32,2.13
+gemma3n,speech_lang,1200,11.76,1.47
+gemma3n,text_en,100,97.3,2.08
+gemma3n,text_lang,1200,74.88,1.81
+ultravox,speech_en,100,75.0,2.02
+ultravox,speech_lang,1200,20.23,0.76
+ultravox,text_en,100,76.47,7.14
+ultravox,text_lang,1200,42.94,0.51

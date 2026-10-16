@@ -1,0 +1,13 @@
+audio_model,condition,resource_tier,n,benign_CR_pct,inappropriate_refusal_pct
+gemma3n,speech_en,High,100,56.32,2.13
+gemma3n,speech_lang,High,600,22.33,2.45
+gemma3n,speech_lang,Low,600,2.44,0.51
+gemma3n,text_en,High,100,97.3,2.08
+gemma3n,text_lang,High,600,81.54,1.22
+gemma3n,text_lang,Low,600,67.41,2.4
+ultravox,speech_en,High,100,75.0,2.02
+ultravox,speech_lang,High,600,41.59,1.37
+ultravox,speech_lang,Low,600,0.8,0.17
+ultravox,text_en,High,100,76.47,7.14
+ultravox,text_lang,High,600,65.86,1.02
+ultravox,text_lang,Low,600,13.69,0.0
