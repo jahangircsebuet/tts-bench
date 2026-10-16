@@ -1,0 +1,13 @@
+audio_model,condition,n,benign_CR_pct,inappropriate_refusal_pct
+phi4mm,speech_en,100,71.62,2.06
+phi4mm,speech_lang,1200,5.83,0.52
+phi4mm,text_en,100,83.78,5.32
+phi4mm,text_lang,1200,28.82,0.6
+qwen2audio,speech_en,100,50.0,3.7
+qwen2audio,speech_lang,1200,3.59,12.34
+qwen2audio,text_en,100,63.75,9.68
+qwen2audio,text_lang,1200,5.08,1.5
+voxtral,speech_en,100,68.35,0.0
+voxtral,speech_lang,1200,22.16,0.86
+voxtral,text_en,100,80.82,2.17
+voxtral,text_lang,1200,30.2,0.6
