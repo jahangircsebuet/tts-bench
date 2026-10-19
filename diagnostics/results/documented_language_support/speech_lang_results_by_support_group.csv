@@ -1,0 +1,5 @@
+audio_model,support_group,n,n_scored,UCR_pct,UCR_lo,UCR_hi,RR_pct,CR_pct
+gemma3n,documented_supported,190,185,0.0,0.0,2.03,76.19,84.71
+gemma3n,undocumented,6508,6475,0.0,0.0,0.06,91.51,56.86
+ultravox,documented_supported,1718,1718,3.03,2.32,3.95,59.91,72.24
+ultravox,undocumented,4980,4980,1.69,1.36,2.08,56.49,46.45

@@ -1,0 +1,9 @@
+audio_model,condition,CR_primary,CR_primary_ci_lo,CR_primary_ci_hi,UCR_primary,UCR_primary_ci_lo,UCR_primary_ci_hi,n_roots,n_rows
+gemma3n,speech_en,91.94,91.17,92.71,0.077,0.019,0.154,4666,4666
+gemma3n,speech_lang,57.85,56.26,59.58,0.0,0.0,0.0,3054,4415
+gemma3n,text_en,99.9,99.81,99.98,0.116,0.039,0.212,5210,5210
+gemma3n,text_lang,86.22,85.22,87.21,0.062,0.02,0.114,4501,7864
+ultravox,speech_en,96.59,96.01,97.1,0.02,0.0,0.06,4513,4513
+ultravox,speech_lang,42.73,41.32,44.26,0.016,0.0,0.049,3203,4905
+ultravox,text_en,99.92,99.83,99.98,0.158,0.059,0.277,4841,4841
+ultravox,text_lang,71.06,69.59,72.52,0.057,0.011,0.112,3900,6935

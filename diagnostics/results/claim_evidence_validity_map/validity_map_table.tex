@@ -1,0 +1,28 @@
+\begin{table}[htbp]
+\centering
+\caption{Claim-to-evidence validity map: what each headline claim is and is not backed by. ``Primary'' = the two-judge (Qwen3-14B+Aya-8B) common configuration; ``Sensitivity'' = the full leave-one-family-out ensemble (Section~\ref{sec:method:judges}).}
+\label{tab:validitymap}
+\small
+\begin{tabular}{p{3.1cm}p{2.1cm}p{2.0cm}p{1.6cm}p{3.6cm}}
+\toprule
+Claim & Judge config & TTS stratum & CI method & Remaining caveat \\
+\midrule
+Comprehension collapses outside English/text (CR 99%->58%/53%) & Primary (2-judge common); holds under sensitivity too & Pooled (native+alias+proxy) & Root-level bootstrap & Pooling strata partly masks a stratum-specific effect (see row below) \\
+\addlinespace
+42-47% of non-English speech responses are false-appearance-of-safety & Sensitivity (leave-one-family-out) ensemble & Pooled & Root-level bootstrap & OTHER\_SAFE/comprehended boundary uses the original one-line rubric, not the refined one (Section~\ref{sec:method:judges}; quantified in F3 below) \\
+\addlinespace
+Cross-model UCR gap nearly vanishes under primary judges; CR gap does not & Primary vs.\ sensitivity, both reported & Pooled & Wilson (UCR), bootstrap (CR) & Mechanism is unanimity-vs-majority consensus rule, not merely judge count \\
+\addlinespace
+Native-voice CR differs sharply from alias/proxy-voice CR (Ultravox: 48% vs.\ 83%) & Sensitivity ensemble consensus & Explicitly stratified: native vs.\ alias vs.\ proxy & None yet (point estimates, $n$=285-5,409 per stratum) & No bootstrap CI computed per stratum; smallest strata ($n$=285) are the least certain \\
+\addlinespace
+Documented language support predicts comprehension (+15 to +28 points) & Sensitivity ensemble consensus & Pooled across strata & None yet (point estimates) & Gemma-3n's ``undocumented'' group is a documentation gap, not a disproof of support (Limitations) \\
+\addlinespace
+OTHER\_SAFE is dominated by language confusion, not generic off-topic-ness & Single reclassifier (Qwen3-14B), NOT the 3-judge ensemble & Pooled & None (counts only) & Reclassifier is itself one more LLM judge, not human-validated (Limitations) \\
+\addlinespace
+Model identity and modality outrank harm category as predictors of the unsafe label & Sensitivity ensemble consensus (the `unsafe` field) & TTS route included as a feature, not stratified & None (point coefficients, no bootstrap SE) & Cross-model comparison is observational (Section~\ref{sec:method:metrics}), not paired by design \\
+\addlinespace
+Pairwise judge agreement is low (Cohen's $\kappa$ 0.011-0.525) & All 3 judges pairwise (this is what is being measured) & Pooled & None (point $\kappa$, no bootstrap CI) & Single point estimate per judge pair; not re-derived on a bootstrap sample \\
+\addlinespace
+\bottomrule
+\end{tabular}
+\end{table}

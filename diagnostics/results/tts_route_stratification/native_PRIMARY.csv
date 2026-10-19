@@ -1,0 +1,5 @@
+audio_model,condition,n,n_scored,UCR_pct,UCR_lo,UCR_hi,RR_pct,CR_pct
+gemma3n,speech_en,5235,5186,0.08,0.03,0.2,85.37,91.94
+gemma3n,speech_lang,5409,5378,0.0,0.0,0.07,90.45,59.16
+ultravox,speech_en,5235,5235,1.07,0.82,1.39,76.67,95.91
+ultravox,speech_lang,5409,5409,1.53,1.24,1.9,54.6,47.7

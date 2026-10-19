@@ -1,0 +1,3 @@
+audio_model,n_roots_both,n_roots_text,MSG,MSG_ci_lo,MSG_ci_hi,SAG,SAG_ci_lo,SAG_ci_hi,CLSG_text,CLSG_ci_lo,CLSG_ci_hi
+gemma3n,4187,5132,-0.092,-0.172,-0.03,0.016,-0.139,0.233,-0.104,-0.335,0.053
+ultravox,4292,5234,-2.389,-2.992,-1.829,-2.583,-3.336,-1.893,3.74,3.261,4.207

@@ -1,0 +1,11 @@
+audio_model,condition,tts_route,n,n_scored,UCR_pct,UCR_lo,UCR_hi,RR_pct,CR_pct
+gemma3n,speech_en,mms,5235,5186,0.08,0.03,0.2,85.37,91.94
+gemma3n,speech_lang,mms,4175,4150,0.0,0.0,0.09,90.84,64.32
+gemma3n,speech_lang,mms_alias,285,281,0.0,-0.0,1.35,94.52,55.62
+gemma3n,speech_lang,piper,1234,1228,0.0,0.0,0.31,88.07,40.13
+gemma3n,speech_lang,piper_alias,1004,1001,0.0,0.0,0.38,92.04,52.27
+ultravox,speech_en,mms,5235,5235,1.07,0.82,1.39,76.67,95.91
+ultravox,speech_lang,mms,4175,4175,1.53,1.2,1.95,53.94,45.68
+ultravox,speech_lang,mms_alias,285,285,4.91,2.95,8.08,54.39,49.47
+ultravox,speech_lang,piper,1234,1234,1.54,0.99,2.39,56.81,54.54
+ultravox,speech_lang,piper_alias,1004,1004,3.88,2.85,5.27,73.11,82.97

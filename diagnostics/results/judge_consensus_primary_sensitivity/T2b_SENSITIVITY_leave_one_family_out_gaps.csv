@@ -1,0 +1,3 @@
+audio_model,n_items_text,n_items_both,ASR_text_lang,CLSG_text,ASR_speech_lang,MSG,SAG,CMC,CR_text,CR_speech
+gemma3n,9706,6495,0.06,-0.1,0.0,-0.09,0.02,99.91,85.98,58.02
+ultravox,9999,6697,4.36,3.74,2.03,-2.39,-2.58,94.3,74.94,53.07

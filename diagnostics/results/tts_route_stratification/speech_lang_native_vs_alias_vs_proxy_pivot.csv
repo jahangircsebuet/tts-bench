@@ -1,0 +1,5 @@
+,n,n,n,UCR_pct,UCR_pct,UCR_pct,CR_pct,CR_pct,CR_pct
+tts_stratum,alias,native,proxy,alias,native,proxy,alias,native,proxy
+audio_model,,,,,,,,,
+gemma3n,285.0,5409.0,1004.0,0.0,0.0,0.0,55.62,59.16,52.27
+ultravox,285.0,5409.0,1004.0,4.91,1.53,3.88,49.47,47.7,82.97

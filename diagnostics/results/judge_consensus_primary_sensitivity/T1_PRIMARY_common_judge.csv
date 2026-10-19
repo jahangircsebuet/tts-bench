@@ -1,0 +1,9 @@
+audio_model,condition,n,n_scored,n_disputed,UCR_pct,UCR_lo,UCR_hi,RR_pct,CR_pct
+gemma3n,speech_en,5235,5186,49,0.08,0.03,0.2,85.37,91.94
+gemma3n,speech_lang,6698,6660,38,0.0,-0.0,0.06,90.84,57.85
+gemma3n,text_en,5235,5177,58,0.12,0.05,0.25,85.75,99.9
+gemma3n,text_lang,10000,9706,294,0.06,0.03,0.13,84.72,86.22
+ultravox,speech_en,5235,5002,233,0.02,0.0,0.11,78.19,96.59
+ultravox,speech_lang,6698,6212,486,0.02,0.0,0.09,77.23,42.73
+ultravox,text_en,5235,5060,175,0.16,0.08,0.31,80.42,99.92
+ultravox,text_lang,10000,8791,1209,0.06,0.02,0.13,81.4,71.06
