@@ -1,0 +1,154 @@
+{
+ "ces_Latn": {
+  "voice": "cs_CZ-jirka-medium",
+  "tts_model": "rhasspy/piper-voices:cs_CZ-jirka-medium",
+  "route": "piper",
+  "asr_lang": "ces",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/cs/cs_CZ/jirka/medium/cs_CZ-jirka-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/cs/cs_CZ/jirka/medium/cs_CZ-jirka-medium.onnx.json"
+ },
+ "dan_Latn": {
+  "voice": "da_DK-talesyntese-medium",
+  "tts_model": "rhasspy/piper-voices:da_DK-talesyntese-medium",
+  "route": "piper",
+  "asr_lang": "dan",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/da/da_DK/talesyntese/medium/da_DK-talesyntese-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/da/da_DK/talesyntese/medium/da_DK-talesyntese-medium.onnx.json"
+ },
+ "est_Latn": {
+  "voice": "et_EE-news-medium",
+  "tts_model": "rhasspy/piper-voices:et_EE-news-medium",
+  "route": "piper",
+  "asr_lang": "est",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/et/et_EE/news/medium/et_EE-news-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/et/et_EE/news/medium/et_EE-news-medium.onnx.json"
+ },
+ "hye_Armn": {
+  "voice": "hy_AM-gor-medium",
+  "tts_model": "rhasspy/piper-voices:hy_AM-gor-medium",
+  "route": "piper",
+  "asr_lang": "hye",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hy/hy_AM/gor/medium/hy_AM-gor-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hy/hy_AM/gor/medium/hy_AM-gor-medium.onnx.json"
+ },
+ "ita_Latn": {
+  "voice": "it_IT-paola-medium",
+  "tts_model": "rhasspy/piper-voices:it_IT-paola-medium",
+  "route": "piper",
+  "asr_lang": "ita",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/it/it_IT/paola/medium/it_IT-paola-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/it/it_IT/paola/medium/it_IT-paola-medium.onnx.json"
+ },
+ "jpn_Jpan": {
+  "voice": "ja_JP-hi_fi_captain-medium",
+  "tts_model": "rhasspy/piper-voices:ja_JP-hi_fi_captain-medium",
+  "route": "piper",
+  "asr_lang": "jpn",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ja/ja_JP/hi_fi_captain/medium/ja_JP-hi_fi_captain-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ja/ja_JP/hi_fi_captain/medium/ja_JP-hi_fi_captain-medium.onnx.json"
+ },
+ "kat_Geor": {
+  "voice": "ka_GE-natia-medium",
+  "tts_model": "rhasspy/piper-voices:ka_GE-natia-medium",
+  "route": "piper",
+  "asr_lang": "kat",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ka/ka_GE/natia/medium/ka_GE-natia-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ka/ka_GE/natia/medium/ka_GE-natia-medium.onnx.json"
+ },
+ "lit_Latn": {
+  "voice": "lt_LT-reginute1-medium",
+  "tts_model": "rhasspy/piper-voices:lt_LT-reginute1-medium",
+  "route": "piper",
+  "asr_lang": "lit",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/lt/lt_LT/reginute1/medium/lt_LT-reginute1-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/lt/lt_LT/reginute1/medium/lt_LT-reginute1-medium.onnx.json"
+ },
+ "ltz_Latn": {
+  "voice": "lb_LU-marylux-medium",
+  "tts_model": "rhasspy/piper-voices:lb_LU-marylux-medium",
+  "route": "piper",
+  "asr_lang": "ltz",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/lb/lb_LU/marylux/medium/lb_LU-marylux-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/lb/lb_LU/marylux/medium/lb_LU-marylux-medium.onnx.json"
+ },
+ "nob_Latn": {
+  "voice": "no_NO-nvcc-medium",
+  "tts_model": "rhasspy/piper-voices:no_NO-nvcc-medium",
+  "route": "piper",
+  "asr_lang": "nob",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/no/no_NO/nvcc/medium/no_NO-nvcc-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/no/no_NO/nvcc/medium/no_NO-nvcc-medium.onnx.json"
+ },
+ "npi_Deva": {
+  "voice": "ne_NP-chitwan-medium",
+  "tts_model": "rhasspy/piper-voices:ne_NP-chitwan-medium",
+  "route": "piper",
+  "asr_lang": "npi",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ne/ne_NP/chitwan/medium/ne_NP-chitwan-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ne/ne_NP/chitwan/medium/ne_NP-chitwan-medium.onnx.json"
+ },
+ "slk_Latn": {
+  "voice": "sk_SK-lili-medium",
+  "tts_model": "rhasspy/piper-voices:sk_SK-lili-medium",
+  "route": "piper",
+  "asr_lang": "slk",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sk/sk_SK/lili/medium/sk_SK-lili-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sk/sk_SK/lili/medium/sk_SK-lili-medium.onnx.json"
+ },
+ "slv_Latn": {
+  "voice": "sl_SI-artur-medium",
+  "tts_model": "rhasspy/piper-voices:sl_SI-artur-medium",
+  "route": "piper",
+  "asr_lang": "slv",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sl/sl_SI/artur/medium/sl_SI-artur-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sl/sl_SI/artur/medium/sl_SI-artur-medium.onnx.json"
+ },
+ "srp_Cyrl": {
+  "voice": "sr_RS-serbski_institut-medium",
+  "tts_model": "rhasspy/piper-voices:sr_RS-serbski_institut-medium",
+  "route": "piper",
+  "asr_lang": "srp",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sr/sr_RS/serbski_institut/medium/sr_RS-serbski_institut-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/sr/sr_RS/serbski_institut/medium/sr_RS-serbski_institut-medium.onnx.json"
+ },
+ "zho_Hans": {
+  "voice": "zh_CN-chaowen-medium",
+  "tts_model": "rhasspy/piper-voices:zh_CN-chaowen-medium",
+  "route": "piper",
+  "asr_lang": "cmn",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/zh/zh_CN/chaowen/medium/zh_CN-chaowen-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/zh/zh_CN/chaowen/medium/zh_CN-chaowen-medium.onnx.json"
+ },
+ "zho_Hant": {
+  "voice": "zh_CN-chaowen-medium",
+  "tts_model": "rhasspy/piper-voices:zh_CN-chaowen-medium",
+  "route": "piper_alias",
+  "asr_lang": "cmn",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/zh/zh_CN/chaowen/medium/zh_CN-chaowen-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/zh/zh_CN/chaowen/medium/zh_CN-chaowen-medium.onnx.json"
+ },
+ "ast_Latn": {
+  "voice": "es_ES-davefx-medium",
+  "tts_model": "rhasspy/piper-voices:es_ES-davefx-medium",
+  "route": "piper_alias",
+  "asr_lang": "spa",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/es/es_ES/davefx/medium/es_ES-davefx-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/es/es_ES/davefx/medium/es_ES-davefx-medium.onnx.json"
+ },
+ "glg_Latn": {
+  "voice": "pt_PT-tug\u00e3o-medium",
+  "tts_model": "rhasspy/piper-voices:pt_PT-tug\u00e3o-medium",
+  "route": "piper_alias",
+  "asr_lang": "por",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/pt/pt_PT/tug\u00e3o/medium/pt_PT-tug\u00e3o-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/pt/pt_PT/tug\u00e3o/medium/pt_PT-tug\u00e3o-medium.onnx.json"
+ },
+ "oci_Latn": {
+  "voice": "ca_ES-upc_ona-medium",
+  "tts_model": "rhasspy/piper-voices:ca_ES-upc_ona-medium",
+  "route": "piper_alias",
+  "asr_lang": "cat",
+  "onnx": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ca/ca_ES/upc_ona/medium/ca_ES-upc_ona-medium.onnx",
+  "config": "/home/malam/.cache/huggingface/hub/models--rhasspy--piper-voices/snapshots/c10ece1aade47bb51c153c893d14e5bf8e5b7117/ca/ca_ES/upc_ona/medium/ca_ES-upc_ona-medium.onnx.json"
+ }
+}
