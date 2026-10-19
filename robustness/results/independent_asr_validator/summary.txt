@@ -1,0 +1,4 @@
+Whisper language coverage: 59/76 languages
+Sample transcribed: 1,200
+MMS-ASR vs Whisper quality-stratum agreement: 86.83%
+CER correlation (MMS-ASR vs Whisper): r=0.465

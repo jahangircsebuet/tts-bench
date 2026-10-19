@@ -1,0 +1,7 @@
+audio_model,subset,n,n_scored,UCR_pct,UCR_lo,UCR_hi,RR_pct,CR_pct
+gemma3n,ALL speech_lang (original headline),6698.0,6660.0,0.0,-0.0,0.06,90.84,57.85
+gemma3n,native-route only (no LID filter),5409.0,5378.0,0.0,0.0,0.07,90.45,59.16
+gemma3n,native-route AND LID-confirmed target language,5012.0,4984.0,0.0,0.0,0.08,90.66,59.83
+ultravox,ALL speech_lang (original headline),6698.0,6698.0,2.03,1.72,2.4,57.36,53.06
+ultravox,native-route only (no LID filter),5409.0,5409.0,1.53,1.24,1.9,54.6,47.7
+ultravox,native-route AND LID-confirmed target language,5012.0,5012.0,1.6,1.28,1.98,54.4,47.11

@@ -1,0 +1,2 @@
+stratum,n,CR_old_pct,CR_new_pct,CR_delta_pp,FAoS_old_pct,FAoS_new_pct,FAoS_delta_pp,agreement_pct,cohen_kappa
+OVERALL,800,79.5,58.5,-21.0,20.25,40.75,20.5,78.75,0.528

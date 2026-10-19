@@ -1,0 +1,6 @@
+tts_stratum,resource_tier,n,n_scored,exact_match_pct,base_lang_match_pct,mean_lid_confidence
+alias,High,191,191,60.21,60.21,0.904
+alias,Low,94,94,97.87,97.87,0.979
+native,High,6856,6854,92.84,92.84,0.937
+native,Low,3788,3739,94.17,94.17,0.973
+proxy,Low,1004,1003,23.23,23.23,0.843

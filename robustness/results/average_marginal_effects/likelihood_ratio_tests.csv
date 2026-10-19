@@ -1,0 +1,5 @@
+dropped_group,df_diff,llf_full,llf_reduced,lr_statistic,p_value,deviance_explained_by_group
+model_modality,4,-2418.07,-2817.22,798.31,1.7877689721535274e-171,798.31
+category,21,-2418.07,-2506.02,175.89,1.8612131290499055e-26,175.89
+sample_origin,2,-2418.07,-2427.05,17.97,0.00012533556099910683,17.97
+tts_route,5,-2418.07,-2419.76,3.39,0.6406178410056678,3.39

@@ -1,0 +1,33 @@
+term,ame_median,ame_ci_lo,ame_ci_hi,n_boot_used
+category_Illegal Activity,0.0277,-0.0004,0.0871,300
+sample_origin_old_reuse,-0.0255,-0.0294,-0.0218,300
+audio_model_gemma3n,-0.0216,-0.0236,-0.0195,300
+modality_speech,-0.0206,-0.0228,-0.0182,300
+category_Criminal Planning/Confessions,0.0188,0.0108,0.027,300
+category_Guns/Illegal Weapons,0.0156,0.0043,0.0275,300
+category_Unauthorized Advice,-0.0155,-0.0175,-0.0138,300
+audio_model_ultravox,0.0121,0.0105,0.0144,300
+sample_origin_new_stratified,-0.0115,-0.0146,-0.009,300
+category_Hate/Identity Hate,-0.0109,-0.014,-0.0074,300
+category_Political/Misinformation/Conspiracy,-0.0108,-0.0136,-0.0049,300
+modality_text,-0.0106,-0.0137,-0.0083,300
+lang_tts_route_mms,-0.008,-0.0108,-0.0048,300
+category_Controlled/Regulated Substances,0.0078,0.0021,0.0134,300
+category_Sexual Minor,-0.0067,-0.0093,-0.0044,300
+lang_tts_route_mms_alias,-0.0066,-0.0117,-0.0015,300
+lang_tts_route_none,-0.0058,-0.0088,-0.003,300
+category_Fraud/Deception,-0.0049,-0.0106,0.0071,300
+category_Profanity,-0.0045,-0.0107,0.0029,300
+lang_tts_route_piper,-0.0043,-0.0072,-0.0006,300
+lang_tts_route_piper_alias,-0.0041,-0.0073,-0.0003,300
+category_Violence,0.0031,-0.0058,0.0141,300
+category_Suicide and Self Harm,0.0027,-0.0071,0.0148,300
+category_Immoral/Unethical,-0.0024,-0.0044,-0.0008,300
+category_Copyright/Trademark/Plagiarism,-0.0023,-0.0068,0.0079,300
+category_PII/Privacy,0.0021,-0.0032,0.0093,300
+category_Malware,0.0016,-0.0074,0.0188,300
+category_Threat,0.0014,-0.0057,0.0169,300
+category_Manipulation,-0.0006,-0.0018,0.0,300
+category_Sexual,0.0005,-0.0052,0.0062,300
+category_Harassment,-0.0004,-0.005,0.004,300
+category_High Risk Gov. Decision Making,-0.0004,-0.0056,0.0133,300

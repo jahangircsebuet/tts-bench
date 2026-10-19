@@ -1,0 +1,4 @@
+tts_stratum,n,n_scored,exact_match_pct,base_lang_match_pct,mean_lid_confidence
+alias,285,285,72.63,72.63,0.928
+native,10644,10593,93.31,93.31,0.95
+proxy,1004,1003,23.23,23.23,0.843
