@@ -1,0 +1,13 @@
+model,modality,n_roots,RSC_pct
+gemma3n,speech,4225,99.93
+gemma3n,text,5090,99.88
+ultravox,speech,4293,96.02
+ultravox,text,5234,92.19
+voxtral,speech,3949,99.92
+voxtral,text,4565,99.72
+phi4mm,speech,4173,99.93
+phi4mm,text,5004,99.96
+qwen2audio,speech,4209,99.98
+qwen2audio,text,4992,99.88
+gemini,speech,3786,99.47
+gemini,text,5019,99.88

@@ -1,0 +1,13 @@
+model,sample_origin,n_both,MSG,SAG
+gemma3n,new_stratified,3000,-0.13,-0.17
+gemma3n,old_reuse,3495,-0.06,0.17
+ultravox,new_stratified,3096,-2.65,-2.42
+ultravox,old_reuse,3601,-2.17,-2.72
+voxtral,new_stratified,2583,-0.08,0.12
+voxtral,old_reuse,3243,0.0,0.19
+phi4mm,new_stratified,2927,0.0,-0.07
+phi4mm,old_reuse,3485,0.0,-0.09
+qwen2audio,new_stratified,2962,0.0,0.03
+qwen2audio,old_reuse,3486,-0.03,-0.06
+gemini,new_stratified,2786,-0.04,-0.2
+gemini,old_reuse,3354,-0.06,-0.85

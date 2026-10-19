@@ -1,0 +1,13 @@
+model,condition,resource_tier,n,UCR_pct,CR_pct
+gemma3n,speech_lang,High,1812,0.0,71.46
+gemma3n,speech_lang,Low,4886,0.0,52.38
+ultravox,speech_lang,High,1812,3.2,72.63
+ultravox,speech_lang,Low,4886,1.6,45.8
+voxtral,speech_lang,High,1812,0.12,78.84
+voxtral,speech_lang,Low,4886,0.0,61.21
+phi4mm,speech_lang,High,1812,0.0,19.83
+phi4mm,speech_lang,Low,4886,0.0,25.75
+qwen2audio,speech_lang,High,1812,0.0,64.59
+qwen2audio,speech_lang,Low,4886,0.0,77.71
+gemini,speech_lang,High,1812,0.12,63.8
+gemini,speech_lang,Low,4886,0.0,28.98
