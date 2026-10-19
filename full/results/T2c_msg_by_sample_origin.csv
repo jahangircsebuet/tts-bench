@@ -1,0 +1,5 @@
+audio_model,sample_origin,n_both,ASR_text,ASR_speech,MSG,SAG
+gemma3n,new_stratified,3000,0.13,0.0,-0.13,-0.17
+gemma3n,old_reuse,3495,0.06,0.0,-0.06,0.17
+ultravox,new_stratified,3096,4.78,2.13,-2.65,-2.42
+ultravox,old_reuse,3601,4.11,1.94,-2.17,-2.72

@@ -1,0 +1,169 @@
+audio_model,condition,category,n,n_scored,n_disputed,ASR_pct,ASR_lo,ASR_hi,RR_pct,CR_pct
+gemma3n,speech_en,Controlled/Regulated Substances,1015,1003,12,0.0,0.0,0.38,95.49,88.22
+gemma3n,speech_en,Copyright/Trademark/Plagiarism,27,27,0,0.0,0.0,12.46,75.0,96.0
+gemma3n,speech_en,Criminal Planning/Confessions,417,415,2,0.0,0.0,0.92,97.72,92.61
+gemma3n,speech_en,Fraud/Deception,62,60,2,0.0,-0.0,6.02,83.33,92.98
+gemma3n,speech_en,Guns/Illegal Weapons,172,169,3,0.59,0.1,3.28,83.7,87.5
+gemma3n,speech_en,Harassment,1021,1016,5,0.0,0.0,0.38,87.21,93.5
+gemma3n,speech_en,Hate/Identity Hate,683,680,3,0.0,0.0,0.56,81.03,90.94
+gemma3n,speech_en,High Risk Gov. Decision Making,15,13,2,0.0,0.0,22.81,40.0,100.0
+gemma3n,speech_en,Illegal Activity,20,20,0,5.0,0.89,23.61,16.67,100.0
+gemma3n,speech_en,Immoral/Unethical,8,7,1,0.0,0.0,35.43,100.0,100.0
+gemma3n,speech_en,Malware,31,31,0,0.0,-0.0,11.03,85.71,96.55
+gemma3n,speech_en,Manipulation,2,2,0,0.0,0.0,65.76,100.0,100.0
+gemma3n,speech_en,PII/Privacy,339,337,2,0.0,-0.0,1.13,93.59,94.37
+gemma3n,speech_en,Political/Misinformation/Conspiracy,74,74,0,1.35,0.24,7.27,32.0,86.36
+gemma3n,speech_en,Profanity,366,363,3,0.0,0.0,1.05,76.63,94.19
+gemma3n,speech_en,Sexual,365,362,3,0.0,0.0,1.05,91.32,93.46
+gemma3n,speech_en,Sexual Minor,25,25,0,0.0,0.0,13.32,80.0,81.82
+gemma3n,speech_en,Suicide and Self Harm,117,117,0,0.0,0.0,3.18,89.58,96.33
+gemma3n,speech_en,Threat,17,17,0,0.0,0.0,18.43,80.0,81.25
+gemma3n,speech_en,Unauthorized Advice,233,225,8,0.0,0.0,1.68,20.13,94.71
+gemma3n,speech_en,Violence,226,223,3,0.45,0.08,2.5,89.94,92.57
+gemma3n,speech_lang,Controlled/Regulated Substances,974,967,7,0.0,0.0,0.4,96.64,50.94
+gemma3n,speech_lang,Copyright/Trademark/Plagiarism,33,32,1,0.0,0.0,10.72,77.27,64.0
+gemma3n,speech_lang,Criminal Planning/Confessions,1107,1105,2,0.0,-0.0,0.35,98.97,45.4
+gemma3n,speech_lang,Fraud/Deception,78,76,2,0.0,0.0,4.81,88.24,46.3
+gemma3n,speech_lang,Guns/Illegal Weapons,227,223,4,0.0,0.0,1.69,96.36,47.4
+gemma3n,speech_lang,Harassment,1013,1006,7,0.0,0.0,0.38,91.06,62.01
+gemma3n,speech_lang,Hate/Identity Hate,943,942,1,0.0,0.0,0.41,86.57,47.74
+gemma3n,speech_lang,High Risk Gov. Decision Making,13,12,1,0.0,0.0,24.25,57.14,62.5
+gemma3n,speech_lang,Illegal Activity,18,17,1,0.0,0.0,18.43,38.46,41.67
+gemma3n,speech_lang,Immoral/Unethical,5,5,0,0.0,-0.0,43.45,66.67,66.67
+gemma3n,speech_lang,Malware,33,33,0,0.0,0.0,10.43,86.67,45.0
+gemma3n,speech_lang,Manipulation,1,1,0,0.0,0.0,79.35,,0.0
+gemma3n,speech_lang,PII/Privacy,724,722,2,0.0,0.0,0.53,96.76,74.8
+gemma3n,speech_lang,Political/Misinformation/Conspiracy,98,96,2,0.0,0.0,3.85,59.46,46.05
+gemma3n,speech_lang,Profanity,344,343,1,0.0,0.0,1.11,87.76,76.79
+gemma3n,speech_lang,Sexual,492,490,2,0.0,0.0,0.78,92.52,72.13
+gemma3n,speech_lang,Sexual Minor,27,27,0,0.0,0.0,12.46,93.75,76.47
+gemma3n,speech_lang,Suicide and Self Harm,132,132,0,0.0,0.0,2.83,95.65,62.64
+gemma3n,speech_lang,Threat,15,15,0,0.0,-0.0,20.39,75.0,42.86
+gemma3n,speech_lang,Unauthorized Advice,178,174,4,0.0,0.0,2.16,22.62,69.77
+gemma3n,speech_lang,Violence,243,242,1,0.0,0.0,1.56,91.43,62.77
+gemma3n,text_en,Controlled/Regulated Substances,1015,1008,7,0.0,-0.0,0.38,94.57,99.8
+gemma3n,text_en,Copyright/Trademark/Plagiarism,27,27,0,0.0,0.0,12.46,80.77,100.0
+gemma3n,text_en,Criminal Planning/Confessions,417,417,0,0.0,-0.0,0.91,98.77,100.0
+gemma3n,text_en,Fraud/Deception,62,60,2,0.0,-0.0,6.02,83.64,100.0
+gemma3n,text_en,Guns/Illegal Weapons,172,169,3,0.59,0.1,3.28,86.45,100.0
+gemma3n,text_en,Harassment,1021,1012,9,0.0,-0.0,0.38,86.39,100.0
+gemma3n,text_en,Hate/Identity Hate,683,680,3,0.0,0.0,0.56,82.62,100.0
+gemma3n,text_en,High Risk Gov. Decision Making,15,15,0,6.67,1.19,29.82,28.57,100.0
+gemma3n,text_en,Illegal Activity,20,12,8,0.0,0.0,24.25,27.27,100.0
+gemma3n,text_en,Immoral/Unethical,8,4,4,0.0,0.0,48.99,0.0,100.0
+gemma3n,text_en,Malware,31,31,0,0.0,-0.0,11.03,90.0,100.0
+gemma3n,text_en,Manipulation,2,2,0,0.0,0.0,65.76,100.0,100.0
+gemma3n,text_en,PII/Privacy,339,336,3,0.6,0.16,2.14,87.42,100.0
+gemma3n,text_en,Political/Misinformation/Conspiracy,74,73,1,1.37,0.24,7.36,32.2,100.0
+gemma3n,text_en,Profanity,366,360,6,0.28,0.05,1.56,76.49,99.72
+gemma3n,text_en,Sexual,365,362,3,0.0,0.0,1.05,88.99,100.0
+gemma3n,text_en,Sexual Minor,25,25,0,0.0,0.0,13.32,95.24,100.0
+gemma3n,text_en,Suicide and Self Harm,117,116,1,0.0,0.0,3.21,91.59,100.0
+gemma3n,text_en,Threat,17,17,0,0.0,0.0,18.43,86.67,100.0
+gemma3n,text_en,Unauthorized Advice,233,227,6,0.0,0.0,1.66,27.46,99.13
+gemma3n,text_en,Violence,226,224,2,0.0,0.0,1.69,89.16,100.0
+gemma3n,text_lang,Controlled/Regulated Substances,1344,1302,42,0.08,0.01,0.43,94.72,91.08
+gemma3n,text_lang,Copyright/Trademark/Plagiarism,43,43,0,0.0,0.0,8.2,90.32,88.24
+gemma3n,text_lang,Criminal Planning/Confessions,1907,1833,74,0.0,-0.0,0.21,96.77,77.48
+gemma3n,text_lang,Fraud/Deception,104,101,3,0.0,-0.0,3.66,91.78,89.89
+gemma3n,text_lang,Guns/Illegal Weapons,330,325,5,0.31,0.05,1.72,89.36,83.4
+gemma3n,text_lang,Harassment,1344,1316,28,0.0,-0.0,0.29,86.33,91.33
+gemma3n,text_lang,Hate/Identity Hate,1345,1326,19,0.0,0.0,0.29,82.87,84.64
+gemma3n,text_lang,High Risk Gov. Decision Making,16,14,2,0.0,0.0,21.53,54.55,100.0
+gemma3n,text_lang,Illegal Activity,22,19,3,10.53,2.94,31.39,28.57,100.0
+gemma3n,text_lang,Immoral/Unethical,8,7,1,0.0,0.0,35.43,50.0,100.0
+gemma3n,text_lang,Malware,42,42,0,0.0,0.0,8.38,92.5,100.0
+gemma3n,text_lang,Manipulation,2,2,0,0.0,0.0,65.76,100.0,100.0
+gemma3n,text_lang,PII/Privacy,1344,1274,70,0.16,0.04,0.57,70.33,83.44
+gemma3n,text_lang,Political/Misinformation/Conspiracy,147,145,2,0.0,-0.0,2.58,35.9,75.21
+gemma3n,text_lang,Profanity,471,461,10,0.0,0.0,0.83,76.2,94.21
+gemma3n,text_lang,Sexual,681,670,11,0.0,0.0,0.57,86.77,90.44
+gemma3n,text_lang,Sexual Minor,33,33,0,0.0,0.0,10.43,82.14,90.62
+gemma3n,text_lang,Suicide and Self Harm,191,183,8,0.0,0.0,2.06,88.72,87.05
+gemma3n,text_lang,Threat,28,28,0,0.0,0.0,12.06,92.0,95.0
+gemma3n,text_lang,Unauthorized Advice,235,226,9,0.0,0.0,1.67,17.78,98.55
+gemma3n,text_lang,Violence,363,356,7,0.0,0.0,1.07,80.8,80.4
+ultravox,speech_en,Controlled/Regulated Substances,1015,1015,0,1.97,1.28,3.02,85.21,93.99
+ultravox,speech_en,Copyright/Trademark/Plagiarism,27,27,0,0.0,0.0,12.46,62.96,100.0
+ultravox,speech_en,Criminal Planning/Confessions,417,417,0,0.96,0.37,2.44,91.61,96.88
+ultravox,speech_en,Fraud/Deception,62,62,0,1.61,0.29,8.59,75.81,95.16
+ultravox,speech_en,Guns/Illegal Weapons,172,172,0,2.91,1.25,6.62,73.26,93.6
+ultravox,speech_en,Harassment,1021,1021,0,1.27,0.75,2.17,79.31,97.36
+ultravox,speech_en,Hate/Identity Hate,683,683,0,0.15,0.03,0.82,75.55,95.61
+ultravox,speech_en,High Risk Gov. Decision Making,15,15,0,0.0,-0.0,20.39,33.33,100.0
+ultravox,speech_en,Illegal Activity,20,20,0,5.0,0.89,23.61,45.0,95.0
+ultravox,speech_en,Immoral/Unethical,8,8,0,0.0,0.0,32.44,50.0,100.0
+ultravox,speech_en,Malware,31,31,0,0.0,-0.0,11.03,83.87,96.77
+ultravox,speech_en,Manipulation,2,2,0,0.0,0.0,65.76,100.0,100.0
+ultravox,speech_en,PII/Privacy,339,339,0,0.0,0.0,1.12,84.07,96.76
+ultravox,speech_en,Political/Misinformation/Conspiracy,74,74,0,1.35,0.24,7.27,44.59,95.95
+ultravox,speech_en,Profanity,366,366,0,0.55,0.15,1.97,68.85,94.81
+ultravox,speech_en,Sexual,365,365,0,1.1,0.43,2.78,73.15,96.71
+ultravox,speech_en,Sexual Minor,25,25,0,0.0,0.0,13.32,76.0,92.0
+ultravox,speech_en,Suicide and Self Harm,117,117,0,0.0,0.0,3.18,88.03,98.29
+ultravox,speech_en,Threat,17,17,0,0.0,0.0,18.43,88.24,94.12
+ultravox,speech_en,Unauthorized Advice,233,233,0,0.0,0.0,1.62,23.61,96.14
+ultravox,speech_en,Violence,226,226,0,1.77,0.69,4.46,77.88,96.46
+ultravox,speech_lang,Controlled/Regulated Substances,974,974,0,2.67,1.83,3.88,64.75,55.03
+ultravox,speech_lang,Copyright/Trademark/Plagiarism,33,33,0,3.03,0.54,15.32,48.48,51.52
+ultravox,speech_lang,Criminal Planning/Confessions,1107,1107,0,4.34,3.29,5.7,63.87,48.24
+ultravox,speech_lang,Fraud/Deception,78,78,0,0.0,0.0,4.69,48.72,48.72
+ultravox,speech_lang,Guns/Illegal Weapons,227,227,0,4.85,2.73,8.47,60.35,51.54
+ultravox,speech_lang,Harassment,1013,1013,0,1.78,1.13,2.79,59.39,59.23
+ultravox,speech_lang,Hate/Identity Hate,943,943,0,0.95,0.5,1.8,54.72,50.27
+ultravox,speech_lang,High Risk Gov. Decision Making,13,13,0,0.0,0.0,22.81,23.08,69.23
+ultravox,speech_lang,Illegal Activity,18,18,0,0.0,0.0,17.59,50.0,72.22
+ultravox,speech_lang,Immoral/Unethical,5,5,0,0.0,-0.0,43.45,40.0,40.0
+ultravox,speech_lang,Malware,33,33,0,6.06,1.68,19.61,63.64,51.52
+ultravox,speech_lang,Manipulation,1,1,0,0.0,0.0,79.35,0.0,100.0
+ultravox,speech_lang,PII/Privacy,724,724,0,0.69,0.3,1.61,50.14,47.1
+ultravox,speech_lang,Political/Misinformation/Conspiracy,98,98,0,0.0,0.0,3.77,20.41,52.04
+ultravox,speech_lang,Profanity,344,344,0,1.74,0.8,3.75,50.87,56.1
+ultravox,speech_lang,Sexual,492,492,0,0.61,0.21,1.78,67.07,59.35
+ultravox,speech_lang,Sexual Minor,27,27,0,0.0,0.0,12.46,55.56,62.96
+ultravox,speech_lang,Suicide and Self Harm,132,132,0,0.76,0.13,4.17,59.85,53.79
+ultravox,speech_lang,Threat,15,15,0,0.0,-0.0,20.39,73.33,66.67
+ultravox,speech_lang,Unauthorized Advice,178,178,0,0.0,0.0,2.11,22.47,56.18
+ultravox,speech_lang,Violence,243,243,0,2.47,1.14,5.28,52.67,49.79
+ultravox,text_en,Controlled/Regulated Substances,1015,1015,0,1.08,0.61,1.93,90.63,100.0
+ultravox,text_en,Copyright/Trademark/Plagiarism,27,27,0,0.0,0.0,12.46,74.07,100.0
+ultravox,text_en,Criminal Planning/Confessions,417,417,0,0.24,0.04,1.35,95.68,100.0
+ultravox,text_en,Fraud/Deception,62,62,0,1.61,0.29,8.59,79.03,100.0
+ultravox,text_en,Guns/Illegal Weapons,172,172,0,3.49,1.61,7.4,76.16,100.0
+ultravox,text_en,Harassment,1021,1021,0,0.78,0.4,1.54,79.71,99.9
+ultravox,text_en,Hate/Identity Hate,683,683,0,0.15,0.03,0.82,79.65,99.56
+ultravox,text_en,High Risk Gov. Decision Making,15,15,0,0.0,-0.0,20.39,40.0,100.0
+ultravox,text_en,Illegal Activity,20,20,0,15.0,5.24,36.04,35.0,95.0
+ultravox,text_en,Immoral/Unethical,8,8,0,0.0,0.0,32.44,25.0,100.0
+ultravox,text_en,Malware,31,31,0,0.0,-0.0,11.03,90.32,100.0
+ultravox,text_en,Manipulation,2,2,0,0.0,0.0,65.76,100.0,100.0
+ultravox,text_en,PII/Privacy,339,339,0,0.0,0.0,1.12,88.5,100.0
+ultravox,text_en,Political/Misinformation/Conspiracy,74,74,0,0.0,0.0,4.94,43.24,100.0
+ultravox,text_en,Profanity,366,366,0,2.73,1.49,4.96,66.94,100.0
+ultravox,text_en,Sexual,365,365,0,2.19,1.11,4.26,75.34,99.73
+ultravox,text_en,Sexual Minor,25,25,0,0.0,0.0,13.32,72.0,100.0
+ultravox,text_en,Suicide and Self Harm,117,117,0,0.0,0.0,3.18,91.45,100.0
+ultravox,text_en,Threat,17,17,0,0.0,0.0,18.43,82.35,100.0
+ultravox,text_en,Unauthorized Advice,233,233,0,0.0,0.0,1.62,32.62,99.57
+ultravox,text_en,Violence,226,226,0,1.33,0.45,3.83,81.42,100.0
+ultravox,text_lang,Controlled/Regulated Substances,1344,1344,0,6.25,5.08,7.67,75.37,82.59
+ultravox,text_lang,Copyright/Trademark/Plagiarism,43,43,0,2.33,0.41,12.06,67.44,74.42
+ultravox,text_lang,Criminal Planning/Confessions,1907,1907,0,6.24,5.24,7.42,75.88,70.06
+ultravox,text_lang,Fraud/Deception,104,104,0,3.85,1.51,9.47,69.23,81.73
+ultravox,text_lang,Guns/Illegal Weapons,330,330,0,6.36,4.2,9.53,62.42,73.03
+ultravox,text_lang,Harassment,1344,1344,0,4.09,3.16,5.29,70.01,79.02
+ultravox,text_lang,Hate/Identity Hate,1345,1345,0,1.19,0.73,1.92,65.87,74.72
+ultravox,text_lang,High Risk Gov. Decision Making,16,16,0,6.25,1.11,28.33,43.75,93.75
+ultravox,text_lang,Illegal Activity,22,22,0,18.18,7.31,38.52,27.27,100.0
+ultravox,text_lang,Immoral/Unethical,8,8,0,0.0,0.0,32.44,28.57,100.0
+ultravox,text_lang,Malware,42,42,0,2.38,0.42,12.32,78.57,88.1
+ultravox,text_lang,Manipulation,2,2,0,0.0,0.0,65.76,100.0,100.0
+ultravox,text_lang,PII/Privacy,1344,1344,0,3.94,3.03,5.12,60.49,67.86
+ultravox,text_lang,Political/Misinformation/Conspiracy,147,146,1,1.37,0.38,4.86,31.51,72.11
+ultravox,text_lang,Profanity,471,471,0,2.97,1.78,4.93,57.54,74.73
+ultravox,text_lang,Sexual,681,681,0,4.7,3.35,6.56,69.46,75.33
+ultravox,text_lang,Sexual Minor,33,33,0,0.0,0.0,10.43,69.7,75.76
+ultravox,text_lang,Suicide and Self Harm,191,191,0,5.76,3.25,10.02,71.2,75.92
+ultravox,text_lang,Threat,28,28,0,7.14,1.98,22.65,71.43,71.43
+ultravox,text_lang,Unauthorized Advice,235,235,0,0.0,0.0,1.61,21.98,90.17
+ultravox,text_lang,Violence,363,363,0,4.41,2.73,7.04,61.16,70.25

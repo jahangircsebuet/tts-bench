@@ -1,0 +1,15 @@
+audio_model,condition,tts_quality,n,n_scored,n_disputed,ASR_pct,ASR_lo,ASR_hi,RR_pct,CR_pct
+gemma3n,speech_en,good,5186,5137,49,0.08,0.03,0.2,85.27,91.96
+gemma3n,speech_en,medium,42,42,0,0.0,0.0,8.38,100.0,90.62
+gemma3n,speech_en,poor,7,7,0,0.0,0.0,35.43,100.0,83.33
+gemma3n,speech_lang,good,6465,6429,36,0.0,0.0,0.06,90.7,58.17
+gemma3n,speech_lang,medium,154,154,0,0.0,0.0,2.43,94.12,48.15
+gemma3n,speech_lang,poor,32,32,0,0.0,0.0,10.72,100.0,80.0
+gemma3n,speech_lang,unscorable,47,45,2,0.0,0.0,7.87,100.0,25.93
+ultravox,speech_en,good,5186,5186,0,1.08,0.83,1.4,76.76,96.09
+ultravox,speech_en,medium,42,42,0,0.0,0.0,8.38,66.67,83.33
+ultravox,speech_en,poor,7,7,0,0.0,0.0,35.43,71.43,42.86
+ultravox,speech_lang,good,6465,6465,0,2.07,1.75,2.45,57.62,53.32
+ultravox,speech_lang,medium,154,154,0,0.65,0.11,3.59,50.0,38.96
+ultravox,speech_lang,poor,32,32,0,0.0,0.0,10.72,46.88,59.38
+ultravox,speech_lang,unscorable,47,47,0,2.13,0.38,11.11,53.19,59.57

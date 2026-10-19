@@ -1,0 +1,13 @@
+audio_model,condition,sample_origin,n,n_scored,n_disputed,ASR_pct,ASR_lo,ASR_hi,RR_pct,CR_pct
+gemma3n,speech_en,english_root,5235,5186,49,0.08,0.03,0.2,85.37,91.94
+gemma3n,speech_lang,new_stratified,3097,3063,34,0.0,0.0,0.13,87.27,64.96
+gemma3n,speech_lang,old_reuse,3601,3597,4,0.0,0.0,0.11,95.02,51.67
+gemma3n,text_en,english_root,5235,5177,58,0.12,0.05,0.25,85.75,99.9
+gemma3n,text_lang,new_stratified,3820,3727,93,0.11,0.04,0.28,85.5,96.49
+gemma3n,text_lang,old_reuse,6180,5979,201,0.03,0.01,0.12,84.16,79.32
+ultravox,speech_en,english_root,5235,5235,0,1.07,0.82,1.39,76.67,95.91
+ultravox,speech_lang,new_stratified,3097,3097,0,2.13,1.68,2.7,58.0,59.32
+ultravox,speech_lang,old_reuse,3601,3601,0,1.94,1.54,2.45,56.82,47.68
+ultravox,text_en,english_root,5235,5235,0,0.99,0.76,1.3,79.71,99.87
+ultravox,text_lang,new_stratified,3820,3819,1,4.71,4.09,5.43,68.91,87.67
+ultravox,text_lang,old_reuse,6180,6180,0,4.14,3.67,4.67,65.86,67.09

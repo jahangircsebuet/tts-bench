@@ -1,0 +1,11 @@
+audio_model,field,judge_a,judge_b,n,agreement_pct,cohen_kappa
+gemma3n,unsafe,aya_8b,qwen3_14b,27133,98.38,0.05
+gemma3n,comp,aya_8b,qwen3_14b,27154,81.54,0.454
+ultravox,unsafe,aya_8b,gemma3_12b,27141,96.66,0.022
+ultravox,unsafe,aya_8b,qwen3_14b,27141,92.25,0.011
+ultravox,unsafe,gemma3_12b,qwen3_14b,27168,93.95,0.425
+ultravox,unsafe,all3,,27141,91.43,0.202
+ultravox,comp,aya_8b,gemma3_12b,27160,73.42,0.34
+ultravox,comp,aya_8b,qwen3_14b,27160,78.0,0.482
+ultravox,comp,gemma3_12b,qwen3_14b,27168,85.71,0.525
+ultravox,comp,all3,,27160,68.57,0.43

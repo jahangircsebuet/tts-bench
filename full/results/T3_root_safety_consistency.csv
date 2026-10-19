@@ -1,0 +1,5 @@
+audio_model,modality,n_roots,RSC_pct
+gemma3n,text,5090,99.88
+gemma3n,speech,4225,99.93
+ultravox,text,5234,92.19
+ultravox,speech,4293,96.02
